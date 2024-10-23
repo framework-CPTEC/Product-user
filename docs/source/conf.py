@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx_copybutton',
     'nbsphinx',
+    'sphinx.ext.mathjax',
     'sphinx.ext.intersphinx',
 ]
 
