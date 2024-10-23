@@ -32,10 +32,7 @@ Exemplos Python
 :maxdepth: 2
 :caption: Contents:
 
-   api
-   mymarkdown
-   mymath
-   My Book <notebooks/Merge.ipynb>
+   notebooks/Merge.ipynb
 
 
 
