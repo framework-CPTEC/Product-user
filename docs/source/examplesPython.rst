@@ -45,6 +45,10 @@ Exemplos Python
     reginf.ipynb
     paired.ipynb
 
+:ref:`notebooks/Merge.ipynb`
+
+
+
 Recuperar Dados do Modelos Numérico SubSazonal
 ----------------------------------------------
 .. code-block:: console
