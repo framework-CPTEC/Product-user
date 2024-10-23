@@ -28,6 +28,9 @@ Exemplos Python
 
   --------------------
 
+[A reStructuredText file](usage.rst)
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
