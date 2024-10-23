@@ -47,7 +47,15 @@ Exemplos Python
 
 :ref:`notebooks/Merge.ipynb`
 
+.. nbinput:: ipython3
+    :execution-count: 42
 
+    6 * 7
+
+.. nboutput::
+    :execution-count: 42
+
+    42
 
 Recuperar Dados do Modelos Numérico SubSazonal
 ----------------------------------------------
