@@ -1,6 +1,6 @@
 
 """
-Sazonal - Biblioteca Python para a distibuição de Dados dos Modelos Numéricos.
+Produtos - Biblioteca Python para a distibuição de Dados do Merge, SAMeT e SMEC
 """
 
 __version__ = "0.1.0"
