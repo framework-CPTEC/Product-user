@@ -27,7 +27,15 @@ Exemplos Python
   Field: ['anomalies', 'prob_positve_anomaly', 'prob_terciles', 'totals']
 
   --------------------
-  
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   notebooks/Merge
+
+
+
 
 Recuperar Dados do Modelos Numérico SubSazonal
 ----------------------------------------------
