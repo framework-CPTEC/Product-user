@@ -34,13 +34,11 @@ Exemplos Python
 
    notebooks/Merge.ipynb
 
-```{toctree}
----
-maxdepth: 2
-caption: Contents:
----
-notebooks/Merge
-```
+.. toctree::
+   :maxdepth: 2
+
+notebooks/Merge.ipynb
+
 
 
 Recuperar Dados do Modelos Numérico SubSazonal
