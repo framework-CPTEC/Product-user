@@ -28,6 +28,16 @@ Exemplos Python
 
   --------------------
 
+.. toctree::
+:maxdepth: 2
+:caption: Contents:
+
+   api
+   mymarkdown
+   mymath
+   My Book <notebooks/Merge.ipynb>
+
+
 
 Recuperar Dados do Modelos Numérico SubSazonal
 ----------------------------------------------
