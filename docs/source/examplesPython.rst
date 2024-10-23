@@ -38,7 +38,12 @@ Exemplos Python
    :maxdepth: 2
    notebooks/Merge.ipynb
 
+.. toctree::
 
+    Merge.ipynb
+    training.ipynb
+    reginf.ipynb
+    paired.ipynb
 
 Recuperar Dados do Modelos Numérico SubSazonal
 ----------------------------------------------
