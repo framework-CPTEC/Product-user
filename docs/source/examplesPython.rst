@@ -36,8 +36,7 @@ Exemplos Python
 
 .. toctree::
    :maxdepth: 2
-
-notebooks/Merge.ipynb
+   notebooks/Merge.ipynb
 
 
 
