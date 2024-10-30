@@ -783,7 +783,7 @@ Como Usar o SMEC
 
 
 
-.. image:: _static/smc_output_10_1.png
+.. image:: _static/smc_output_11_1.png
 
 
 .. code:: ipython3
