@@ -46,7 +46,7 @@ Contents
    /install
    /usageMerge
    /usageSAMeT
-   /usage
+   /usageSMC
 
 
    
