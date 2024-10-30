@@ -758,6 +758,7 @@ Como Usar o Merge
 
 .. code:: ipython3
 
+    # tipo = (paises/regioes/estados/bacias/biomas)
     p=mrg.list_areas(tipo='estados')
 
 
