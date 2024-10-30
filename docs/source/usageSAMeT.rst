@@ -40,7 +40,7 @@ Como Usar o SAMeT
 
 .. code:: ipython3
 
-    import src.CPTEC_SAMeT as SAM
+    import products.CPTEC_SAMeT as SAM
     sam = SAM.products()
 
 
