@@ -1013,15 +1013,6 @@ Como Usar o SMEC
     plt.errorbar(df['date'] ,df['mean'], yerr=df['25%'], fmt='o', capsize=5, capthick=2)
 
 
-
-
-.. parsed-literal::
-
-    <ErrorbarContainer object of 3 artists>
-
-
-
-
 .. image:: _static/smc_output_16_1.png
 
 
