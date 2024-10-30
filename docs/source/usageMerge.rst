@@ -40,7 +40,7 @@ Como Usar o Merge
 
 .. code:: ipython3
 
-    import src.CPTEC_MERGE as MRG
+    import products.CPTEC_MERGE as MRG
     mrg = MRG.products()
 
 
