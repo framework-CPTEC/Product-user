@@ -847,7 +847,7 @@
 
 
 
-.. image:: output_12_1.png
+.. image:: _static/mrg_output_12_1.png
 
 
 .. code:: ipython3
@@ -1302,7 +1302,7 @@
 
 
 
-.. image:: output_17_1.png
+.. image:: _static/mrg_output_17_1.png
 
 
 .. code:: ipython3
