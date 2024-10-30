@@ -40,7 +40,7 @@ Como Usar o SMEC
 
 .. code:: ipython3
 
-    import src.CPTEC_SMEC as SMC
+    import products.CPTEC_SMEC as SMC
     smc = SMC.products()
 
 
