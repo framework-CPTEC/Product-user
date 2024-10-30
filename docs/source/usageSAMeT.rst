@@ -745,7 +745,7 @@ Como Usar o SAMeT
 
 
 .. code:: ipython3
-
+    # tipo = (paises/regioes/estados/bacias/biomas)
     p=sam.list_areas(tipo='estados')
 
 
