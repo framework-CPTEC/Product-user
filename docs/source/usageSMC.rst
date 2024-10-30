@@ -726,6 +726,7 @@ Como Usar o SMEC
 
 
 .. code:: ipython3
+
     # tipo = (paises/regioes/estados/bacias/biomas)
     p=smc.list_areas(tipo='estados')
 
