@@ -1285,15 +1285,6 @@ Como Usar o SAMeT
     plt.errorbar(df['date'] ,df['mean'], yerr=df['25%'], fmt='o', capsize=5, capthick=2)
 
 
-
-
-.. parsed-literal::
-
-    <ErrorbarContainer object of 3 artists>
-
-
-
-
 .. image:: _static/sam_output_17_1.png
 
 
