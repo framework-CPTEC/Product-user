@@ -6,6 +6,7 @@ Instalação
 .. code-block:: console
 
   conda env create -f environment.yml
+  conda activate tst
 
 Download :download:`environment.yml <_static/environment.yml>`.
 
