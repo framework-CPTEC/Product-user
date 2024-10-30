@@ -835,7 +835,7 @@
 
 
 
-.. image:: output_12_1.png
+.. image:: _static/sam_output_12_1.png
 
 
 .. code:: ipython3
@@ -1290,7 +1290,7 @@
 
 
 
-.. image:: output_17_1.png
+.. image:: _static/sam_.png
 
 
 .. code:: ipython3
