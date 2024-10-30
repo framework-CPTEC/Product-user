@@ -5,16 +5,9 @@ Instalação
 
 .. code-block:: console
 
-  conda create -n cptec python=3.10
-
-  conda activate cptec
+  conda env create -f environment.yml
 
 
-**Via conda**
-  
-.. code-block:: console
-
-  conda install -c conda-forge  cptec-sazonal
 
 
 **Via pip**
