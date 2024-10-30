@@ -46,7 +46,7 @@ Contents
    /install
    /usageMerge
    /usageSAMeT
-   /grads
+   /usage
 
 
    
