@@ -7,8 +7,7 @@ Instalação
 
   conda env create -f environment.yml
 
-
-
+Download :download:`environment.yml <_static/environment.yml>`.
 
 **Via pip**
   
