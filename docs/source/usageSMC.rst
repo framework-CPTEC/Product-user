@@ -1,3 +1,7 @@
+Como Usar o SMEC
+=================
+
+
 .. code:: ipython3
 
     !pip install matplotlib 
