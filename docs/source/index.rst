@@ -44,8 +44,8 @@ Contents
 
 .. toctree::
    /install
-   /usage
-   /examplesPython
+   /usageMerge
+   /usageSAMeT
    /grads
 
 
