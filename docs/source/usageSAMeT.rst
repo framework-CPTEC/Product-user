@@ -1294,7 +1294,7 @@ Como Usar o SAMeT
 
 
 
-.. image:: _static/sam_.png
+.. image:: _static/sam_output_17_1.png
 
 
 .. code:: ipython3
