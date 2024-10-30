@@ -13,5 +13,5 @@ Download :download:`environment.yml <_static/environment.yml>`.
   
 .. code-block:: console
 
-  pip install cptec-sazonal
+pip install -i https://test.pypi.org/simple/ cptec-products
   
